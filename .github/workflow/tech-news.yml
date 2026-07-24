@@ -1,0 +1,38 @@
+name: Tech News Scraper
+
+on:
+  schedule:
+    # هر روز ساعت 06:00 به وقت ایران (02:30 UTC)
+    - cron: '30 2 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run tech news scraper
+        run: python tech_news_scraper.py
+
+      - name: Commit and push results
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add data/tech_news/pending.json data/tech_news/seen_guids.json
+          git diff --staged --quiet && echo "No changes to commit" || git commit -m "Update tech news pending list"
+          git push

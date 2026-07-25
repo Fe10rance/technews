@@ -1,5 +1,202 @@
 [
   {
+    "guid": "bb6acaddaed71e407c329786a0534452",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "published_at": "2026-07-25T00:23:11+00:00",
+    "title_en": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "title_fa": "من صفحه کلید جدید هوش مصنوعی OpenAI را امتحان کردم - که برای برخی از کدنویسان سرگرم کننده و برای بقیه کمی مبهم خواهد بود.",
+    "excerpt_en": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+    "excerpt_fa": "صفحه کلید فانتزی هوش مصنوعی OpenAI برای برخی بسیار سرگرم کننده خواهد بود، در حالی که بسیاری دیگر احتمالاً آن را لمس نمی کنند.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
+    "tags_fa": [
+      "هوش مصنوعی",
+      "ChatGPT",
+      "کدکس",
+      "میکرو",
+      "TechCrunch"
+    ],
+    "fetched_at": "2026-07-25T05:26:25.386474+00:00"
+  },
+  {
+    "guid": "6669382dca1cd0c808cb20fb2874e2a2",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+    "published_at": "2026-07-24T23:25:47+00:00",
+    "title_en": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+    "title_fa": "اسپیس‌ایکس ماهواره‌های V3 Starlink جدید را به فضا پرتاب می‌کند اما با یک شکست تقویت‌کننده دیگر مواجه می‌شود",
+    "excerpt_en": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
+    "excerpt_fa": "این شرکت چند جعبه دیگر را در دومین پرواز Starship V3 علامت گذاری کرد، اما به نظر می رسد مشکل دیگری در روشن کردن موتورهای موشک تقویت کننده وجود داشته است.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-7.12.08-PM.png?resize=1200,1021",
+    "tags_fa": [
+      "فضا",
+      "حمل و نقل",
+      "اسپیس ایکس",
+      "کشتی ستاره ای",
+      "TechCrunch"
+    ],
+    "fetched_at": "2026-07-25T05:26:30.850218+00:00"
+  },
+  {
+    "guid": "1d576f5fb5b35a1df278eaecf6188eb6",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2222988/meta-has-pulled-out-of-a-renewable-energy-initiative-as-it-relies-more-on-natural-gas-for-data-centers/",
+    "published_at": "2026-07-24T23:13:24+00:00",
+    "title_en": "Meta has pulled out of a renewable energy initiative as it relies more on natural gas for data centers",
+    "title_fa": "متا از ابتکار انرژی های تجدیدپذیر کناره گیری کرده است زیرا برای مراکز داده بیشتر به گاز طبیعی متکی است.",
+    "excerpt_en": "The company has comitted to 10 natural gas plants since last year.",
+    "excerpt_fa": "این شرکت از سال گذشته به 10 کارخانه گاز طبیعی متعهد شده است.",
+    "image_url": "https://www.engadget.com/img/gallery/meta-has-pulled-out-of-a-renewable-energy-initiative-as-it-relies-more-on-natural-gas-for-data-centers/l-intro-1784934429.jpg",
+    "tags_fa": [
+      "متا",
+      "Engadget"
+    ],
+    "fetched_at": "2026-07-25T05:27:05.825774+00:00"
+  },
+  {
+    "guid": "9f0abf5402c9bafbfeab5b4af00f9fba",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2222979/spacex-13th-starship-flight-test-launches-with-starlink-s-next-gen-satellites/",
+    "published_at": "2026-07-24T22:54:01+00:00",
+    "title_en": "SpaceX's 13th Starship flight test launches with Starlink's next-gen satellites",
+    "title_fa": "سیزدهمین آزمایش پرواز استارشیپ اسپیس ایکس با ماهواره های نسل بعدی استارلینک پرتاب شد",
+    "excerpt_en": "Starship is carrying 20 V3 Starlink satellites as payload for its 13th test flight.",
+    "excerpt_fa": "استارشیپ 20 ماهواره V3 Starlink را به عنوان محموله برای سیزدهمین پرواز آزمایشی خود حمل می کند.",
+    "image_url": "https://www.engadget.com/img/gallery/spacexs-13th-starship-flight-test-launches-with-starlinks-next-gen-satellites/l-intro-1784933575.jpg",
+    "tags_fa": [
+      "فضا",
+      "Engadget"
+    ],
+    "fetched_at": "2026-07-25T05:27:09.776383+00:00"
+  },
+  {
+    "guid": "66a981e72c345e9a78dfd4f7f2f6b252",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2222963/trump-threatens-eu-with-new-tariffs-in-response-to-google-fine/",
+    "published_at": "2026-07-24T22:35:37+00:00",
+    "title_en": "Trump threatens EU with new tariffs in response to Google fine",
+    "title_fa": "ترامپ در پاسخ به جریمه گوگل، اتحادیه اروپا را به اعمال تعرفه های جدید تهدید کرد",
+    "excerpt_en": "The European Commission found Google's search ranking and anti-steering violated the Digital Markets Act.",
+    "excerpt_fa": "کمیسیون اروپا دریافت که رتبه بندی جستجوی گوگل و ضد فرمان، قانون بازارهای دیجیتال را نقض می کند.",
+    "image_url": "https://www.engadget.com/img/gallery/trump-threatens-eu-with-new-tariffs-in-response-to-google-fine/l-intro-1784932492.jpg",
+    "tags_fa": [
+      "گوگل",
+      "Engadget"
+    ],
+    "fetched_at": "2026-07-25T05:27:13.533871+00:00"
+  },
+  {
+    "guid": "daa131d66ec446a9cea84835b95eeb3a",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+    "published_at": "2026-07-24T22:27:46+00:00",
+    "title_en": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+    "title_fa": "پس از واکنش متا، متا برنامه \"محدودیت نرخ\" عینک هوشمند خود را متوقف می کند",
+    "excerpt_en": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has paused those plans, spokesperson...",
+    "excerpt_fa": "به یاد دارید زمانی که متا قصد داشت 20 دلار هزینه اشتراک ماهانه برای ویژگی عینک هوشمند دریافت کند که به افراد امکان می دهد صدای یکدیگر را واضح تر بشنوند - حتی اگر این ویژگی به صورت محلی روی عینک شما اجرا شود و نیازی به ابر ندارد؟ متا این برنامه ها را متوقف کرده است، سخنگوی ...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0075.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "tags_fa": [
+      "ابزارک ها",
+      "متا",
+      "اخبار",
+      "فنی",
+      "The Verge"
+    ],
+    "fetched_at": "2026-07-25T05:27:01.793864+00:00"
+  },
+  {
+    "guid": "ef89e6ed2d93ab28ee3abebe943f0e09",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "published_at": "2026-07-24T22:25:58+00:00",
+    "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "title_fa": "پرنتیس، آزمایشگاه هوش مصنوعی جدید که توسط رید هافمن و مارک پینکوس بنیانگذاری شد، در حال مذاکره برای جمع آوری 100 میلیون دلار است.",
+    "excerpt_en": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+    "excerpt_fa": "Neolab شرط می‌بندد که خودکار کردن کارهای معمول رایانه به‌زودی از کدنویسی به عنوان بزرگترین مورد استفاده هوش مصنوعی پیشی خواهد گرفت.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
+    "tags_fa": [
+      "هوش مصنوعی",
+      "استارت آپ ها",
+      "انحصاری",
+      "علامت pincus",
+      "TechCrunch"
+    ],
+    "fetched_at": "2026-07-25T05:26:37.040601+00:00"
+  },
+  {
+    "guid": "41df3347af63f63994c06c9fc200769a",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+    "published_at": "2026-07-24T22:10:00+00:00",
+    "title_en": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+    "title_fa": "مرحله جدید پول هوشمند TechCrunch Disrupt 2026 به بررسی فین‌تک، پرداخت‌ها، هوش مصنوعی و همه چیز می‌پردازد.",
+    "excerpt_en": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
+    "excerpt_fa": "پول به چیزی بسیار بیشتر از پول نقد در کیف پول یا حساب بانکی شما تبدیل شده است. و در TechCrunch Disrupt 2026، ما یک مرحله کامل را به این پیشرفت اختصاص می دهیم.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-smart-money-stage.jpg?w=1200",
+    "tags_fa": [
+      "استارت آپ ها",
+      "فین تک",
+      "TechCrunch Disrupt",
+      "رابینهود",
+      "TechCrunch"
+    ],
+    "fetched_at": "2026-07-25T05:26:42.837627+00:00"
+  },
+  {
+    "guid": "a3be594af81ba39e9f546b85d16b9406",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
+    "published_at": "2026-07-24T21:15:00+00:00",
+    "title_en": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+    "title_fa": "ویتنام به دنبال محدود کردن شبکه های اجتماعی برای کودکان است. در اینجا تعداد فزاینده ای از کشورهای دیگر وجود دارد که همین کار را انجام می دهند",
+    "excerpt_en": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+    "excerpt_fa": "استرالیا اولین کشوری بود که در اواخر سال 2025 ممنوعیتی را با هدف کاهش فشارها و خطراتی که کاربران جوان ممکن است در رسانه های اجتماعی با آن مواجه شوند، از جمله آزار سایبری، اعتیاد به رسانه های اجتماعی و قرار گرفتن در معرض شکارچیان صادر کرد.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Sunny-playground.png?resize=1200,800",
+    "tags_fa": [
+      "برنامه ها",
+      "دولت و سیاست",
+      "اجتماعی",
+      "همیشه سبز",
+      "TechCrunch"
+    ],
+    "fetched_at": "2026-07-25T05:26:48.810815+00:00"
+  },
+  {
+    "guid": "4cee3fc629cafea242001f356807fa88",
+    "source": "Engadget",
+    "source_url": "https://www.engadget.com/2222897/paramount-agrees-to-delay-warner-bros-merger-into-2027/",
+    "published_at": "2026-07-24T20:50:28+00:00",
+    "title_en": "Paramount agrees to delay Warner Bros. merger into 2027",
+    "title_fa": "پارامونت با تاخیر ادغام برادران وارنر در سال 2027 موافقت کرد",
+    "excerpt_en": "The extended pause will give time to hear cases for blocking the deal from states and the WGA.",
+    "excerpt_fa": "مکث طولانی مدت زمان رسیدگی به پرونده های مسدود کردن معامله از سوی ایالت ها و WGA را می دهد.",
+    "image_url": "https://www.engadget.com/img/gallery/paramount-agrees-to-delay-warner-bros-merger-into-2027/l-intro-1784926165.jpg",
+    "tags_fa": [
+      "سرگرمی",
+      "Engadget"
+    ],
+    "fetched_at": "2026-07-25T05:27:18.353085+00:00"
+  },
+  {
+    "guid": "b93a92719f40a5e613e85fcb4de069cb",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+    "published_at": "2026-07-24T20:43:35+00:00",
+    "title_en": "Waymo reportedly mulling a breakup with Uber",
+    "title_fa": "طبق گزارش‌ها، وایمو در حال بررسی جدایی از اوبر است",
+    "excerpt_en": "The contract between the two companies ends in May 2028, Uber told TechCrunch.",
+    "excerpt_fa": "اوبر به TechCrunch گفت که قرارداد بین دو شرکت در ماه مه 2028 به پایان می رسد.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/waymo-back-getty.jpg?resize=1200,800",
+    "tags_fa": [
+      "حمل و نقل",
+      "به طور خلاصه",
+      "اوبر",
+      "وایمو",
+      "TechCrunch"
+    ],
+    "fetched_at": "2026-07-25T05:26:55.904731+00:00"
+  },
+  {
     "guid": "b71c2d87d720e500e1523d5387f056c2",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",

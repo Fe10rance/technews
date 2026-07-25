@@ -150,14 +150,32 @@ def get_best_image(entry):
 
 def extract_full_content(url):
     """
-    با trafilatura متن اصلی مقاله رو (بدون منو/تبلیغ/کامنت) از صفحه استخراج می‌کنه.
-    اگه شکست بخوره، None برمی‌گردونه و کد از summary فید به عنوان جایگزین استفاده می‌کنه.
+    متن اصلی مقاله رو (بدون منو/تبلیغ/کامنت) از صفحه استخراج می‌کنه.
+    اول با هدر مرورگر واقعی (requests) صفحه رو می‌گیریم چون بعضی سایت‌ها به
+    درخواست‌های بدون User-Agent مرورگر جواب کوکی‌وال/403 می‌دن؛ اگه این روش
+    شکست خورد، به fetch داخلی trafilatura برمی‌گردیم.
+    اگه هیچ‌کدوم جواب نداد، None برمی‌گردونه و کد از summary فید استفاده می‌کنه.
     """
+    html = None
     try:
-        downloaded = trafilatura.fetch_url(url)
-        if not downloaded:
-            return None
-        text = trafilatura.extract(downloaded, include_comments=False, include_tables=False)
+        res = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        if res.status_code == 200 and res.text:
+            html = res.text
+    except requests.RequestException as e:
+        print(f"  ! خطا در دریافت صفحه با requests: {e}")
+
+    if not html:
+        try:
+            html = trafilatura.fetch_url(url)
+        except Exception as e:
+            print(f"  ! خطا در fetch داخلی trafilatura: {e}")
+            html = None
+
+    if not html:
+        return None
+
+    try:
+        text = trafilatura.extract(html, url=url, include_comments=False, include_tables=False)
         if not text:
             return None
         text = text.strip()
